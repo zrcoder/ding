@@ -1,11 +1,11 @@
 title = "定的随笔"
 
-baseURL = "https://rdor.gitee.io/essays"
+baseURL = "https://yaqing.netlify.app"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"
 defaultContentLanguageInSubdir = true
 
-theme = "hugo-theme-learn"
+theme = "github.com/matcornic/hugo-theme-learn"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
