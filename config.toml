@@ -13,8 +13,8 @@ home = [ "HTML", "RSS", "JSON"]
 [params]
 themeVariant = "mine"
 
-editURL = "https://gitee.com/rdor/essays/edit/main/content/"
-author = "rdor"
+editURL = "https://github.com/zrcoder/ding/tree/master/content/"
+author = "ding"
 description = "Ding's essays"
 showVisitedLinks = false
 disableSearch = false
@@ -25,7 +25,6 @@ disableLandingPageButton = true
 disableLanguageSwitchingButton = false
 disableBreadcrumb = false
 disableMermaid = false
-customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
 disableNextPrev = false
 ordersectionsby = "weight"
 titleSeparator = "::"
