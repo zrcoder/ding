@@ -1,10 +1,11 @@
 title = "定的随笔"
 
-baseURL = "https://yaqing.netlify.app"
+baseURL = "https://yaq.netlify.app"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"
 defaultContentLanguageInSubdir = true
 
+# theme = "hugo-theme-learn" # for local
 theme = "github.com/matcornic/hugo-theme-learn"
 
 [outputs]
@@ -26,6 +27,5 @@ disableLanguageSwitchingButton = false
 disableBreadcrumb = false
 disableMermaid = false
 disableNextPrev = false
-ordersectionsby = "weight"
+ordersectionsby = "time"
 titleSeparator = "::"
-
