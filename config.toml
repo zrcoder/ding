@@ -1,31 +1,27 @@
 title = "定的随笔"
-
 baseURL = "https://yaq.netlify.app"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"
 defaultContentLanguageInSubdir = true
 
-# theme = "hugo-theme-learn" # for local
-theme = "github.com/matcornic/hugo-theme-learn"
+theme = "github.com/McShelby/hugo-theme-relearn"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
 [params]
-themeVariant = "mine"
-
+# theme hugo-theme-relearn: https://mcshelby.github.io/hugo-theme-relearn/basics/configuration/index.html
 editURL = "https://github.com/zrcoder/ding/tree/master/content/"
 author = "ding"
 description = "Ding's essays"
-showVisitedLinks = false
-disableSearch = false
-disableAssetsBusting = false
-disableInlineCopyToClipBoard = true
-disableShortcutsTitle = false
-disableLandingPageButton = true
-disableLanguageSwitchingButton = false
-disableBreadcrumb = false
-disableMermaid = false
-disableNextPrev = false
-ordersectionsby = "time"
-titleSeparator = "::"
+  collapsibleMenu = true
+  disableNextPrev = true
+  disableLandingPageButton = true
+  disableInlineCopyToClipBoard = true
+  alwaysopen = true
+  disableMathJax = true
+  disableMermaid = true
+  disableOpenapi = true
+  themeVariant = "auto"
+  themeVariantAuto = [ "relearn-bright", "relearn-dark" ]
+  additionalContentLanguage = [ "en" ]
