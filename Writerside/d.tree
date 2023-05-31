@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="d"
+                 name="定的随笔"
+>
+
+    <toc-element topic="人文.md">
+        <toc-element topic="wandering.md"/>
+        <toc-element topic="family.md"/>
+        <toc-element topic="she.md"/>
+        <toc-element topic="man-and-his-hands.md"/>
+        <toc-element topic="end-of-trip.md"/>
+        <toc-element topic="lonely-love-song.md"/>
+        <toc-element topic="a-letter.md"/>
+        <toc-element topic="excitation.md"/>
+        <toc-element topic="rebellious-child.md"/>
+        <toc-element topic="letter-in-may.md"/>
+        <toc-element topic="baby.md"/>
+        <toc-element topic="sixteen-earthly-branches.md">
+        </toc-element>
+        <toc-element topic="ramen-shop-met-garlic.md"/>
+        <toc-element topic="sorrow.md"/>
+        <toc-element topic="love-you-in-your-season.md"/>
+        <toc-element topic="valentine-day.md"/>
+        <toc-element topic="stone-in-toilet.md"/>
+        <toc-element topic="to-quyuan.md"/>
+        <toc-element topic="light-all-the-way-in-the-dark-night.md"/>
+        <toc-element topic="to-freinds.md"/>
+        <toc-element topic="happy-new-year.md"/>
+        <toc-element topic="childlike-innocence.md"/>
+    </toc-element>
+    <toc-element topic="技术.md">
+        <toc-element topic="blog.md"/>
+    </toc-element>
+</instance-profile>

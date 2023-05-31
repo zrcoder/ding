@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <variables></variables>
+    <build-profile instance="d">
+        <variables>
+            <noindex-content>false</noindex-content>
+            <primary-color>forest</primary-color>
+            <header-logo>ab</header-logo>
+        </variables>
+    </build-profile>
+
+
+
+    <footer>
+        <copyright>Ding 2023</copyright>
+        <social type="blog" href=""></social>
+        <social type="twitter" href=""></social>
+
+    </footer>
+
+</buildprofiles>

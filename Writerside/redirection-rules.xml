@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="472177f0">
+        <description><![CDATA[Created after removal of "<_index1.md>" from ding]]></description>
+        <accepts>_index1.html</accepts>
+    </rule>
+    <rule id="6f59c83f">
+        <description>Created after removal of "定的随笔" from ding</description>
+        <accepts>定的随笔.html</accepts>
+    </rule>
+    <rule id="1f42dd0c">
+        <description><![CDATA[Created after removal of "<index.md>" from ding]]></description>
+        <accepts>index_md.html</accepts>
+    </rule>
+</rules>
