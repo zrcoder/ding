@@ -1,5 +1,8 @@
 ---
 title: ""
+
+cascade:
+  type: docs
 ---
 
 {{< cards >}}

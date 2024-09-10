@@ -42,7 +42,9 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
+    logo:
+      path: /gopher.svg
   editURL:
     enable: true
     base: "https://github.com/zrcoder/ding/edit/master/content/"
