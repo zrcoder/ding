@@ -1,6 +1,8 @@
 ---
-title: "定的随笔"
-date: 2021-10-05T20:03:17+08:00
+title: ""
 ---
 
-{{% children %}}
+{{< cards >}}
+{{< card link="human" title="人文" icon="book-open" >}}
+{{< card link="tech" title="技术" icon="user" >}}
+{{< /cards >}}
