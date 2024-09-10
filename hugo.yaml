@@ -1,0 +1,57 @@
+baseURL: https://yaq.netlify.app/
+defaultContentLanguage: zh-cn
+languageCode: zh-CN
+title: 定的随笔
+
+module:
+  imports:
+    - path: github.com/imfing/hextra # hextra theme
+
+# https://imfing.github.io/hextra/docs/
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: Human
+      weight: 1
+      pageRef: /human
+      params:
+        icon: book-open
+    - name: Tech
+      weight: 2
+      pageRef: /tech
+      params:
+        label: 技术
+        icon: user
+    - name: Search
+      weight: 3
+      params:
+        type: search
+    - name: GitHub
+      weight: 4
+      url: "https://github.com/zrcoder/ding"
+      params:
+        icon: github
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: false
+  editURL:
+    enable: true
+    base: "https://github.com/zrcoder/ding/edit/master/content/"
+  theme:
+    # light | dark | system
+    default: system
+    displayToggle: true
+  footer:
+    enable: false
+
+  comments:
+    enable: false
