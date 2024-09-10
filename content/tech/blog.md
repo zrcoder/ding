@@ -39,14 +39,8 @@ typora 免费很多年，当前开始收费； marktext 开源，完全免费。
 
 ## 网站部署
 
-hugo 可以生成静态网站内容（就是一堆js，css和html文件），可以使用 Github 的 pages，netlify 等免费服务部署自己的网站。
+hugo 可以生成静态网站内容（就是一堆 js，css 和 html 文件），可以使用 Github 的 pages，netlify 等免费服务部署自己的网站。
 
 ## hugo 文档主题
 
-先后用过 hugo-theme-learn， hugo-book 和 hugo-theme-relearn，首选最后一个。
-
-### hugo-theme-relearn
-
-[官网](https://mcshelby.github.io/hugo-theme-relearn)
-
-给一个我个人使用了该主题的网站参考：<https://rdcode.netlify.app>，源码在这：<https://github.com/zrcoder/leetcode>, 可以结合官网看看自定义样式、添加评论支持的部分。
+文档类的先后用过 hugo-theme-learn， hugo-book，hugo-theme-relearn 和 hextra，首选最后两个。
